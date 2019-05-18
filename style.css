@@ -1,0 +1,139 @@
+style.css
+
+main {
+	width: 850px;
+margin-top: 35px; 
+margin-right: 0; 
+margin-bottom: 35px;
+margin-left: 0;
+
+}
+
+header {
+font-family: "Raleway", sans-serif;
+letter-spacing: 1px;
+font-weight: 400;
+font-size: 45px;
+background-color: #F15B31;
+font-color: #FFFFFF;
+padding-top: 30px;
+padding-right: 20px;
+padding-bottom:30px; 
+padding-left: 20px;
+margin: 0px;
+}
+
+nav {
+	font-family: "Raleway", sans-serif;
+color: #FFFFFF;
+letter-spacing: 1px;
+font-weight: 600;
+font-size: 18px;
+background-color: #00A6B3;
+padding-top: 20px;
+padding-right: 0px; 
+padding-bottom: 20px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+border-bottom: 2px solid transparent;
+}
+
+a {
+	font-family: "Raleway", sans-serif;
+color: #FFFFFF;
+letter-spacing: 1px;
+font-weight: 600px;
+font-size: 20px;
+text-decoration: none;
+margin-top: 0px; 
+margin-right: 20px; 
+margin-bottom: 0px;
+margin-left: 20px;
+}
+
+  a:hover {
+    color: white;
+    background-color: black;
+  }
+
+
+body {
+text-align: center;
+  margin: 0px;
+  }
+
+h1 {
+font-family: "Raleway", sans-serif;
+color: #FFFFFF;
+letter-spacing: 1px;
+font-weight: 400;
+font-size: 45px;
+  margin: 0px;
+}
+
+h2 {
+	font-family: "Raleway", sans-serif;
+color: #0D2C40;
+letter-spacing: 1px;
+font-weight: 600;
+font-size: 20px;
+}
+
+p {
+font-family: "Droid Serif", serif;
+line-height: 26px;
+font-size:18px;
+}
+
+img {
+	margin-top: 40px;
+	margin-right: 8px; 
+	margin-bottom: 32px;
+	margin-left: 8px;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+#footer {
+padding-right: 20px;
+padding-left: 20px;
+letter-spacing: .08em;
+font-weight: 500px;
+background-color: #0D2C40;
+}
+
+.copyright {
+text-transform: uppercase;
+color: white;
+background-color: #0D2C40;
+font-size: 14px;
+float: left;
+font-family: "Raleway", sans-serif;
+}
+
+.message {
+text-transform: uppercase;
+color: white;
+background-color: #0D2C40;
+font-size: 14px;
+float: right;
+font-family: "Raleway", sans-serif;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700px;
+
+
+
+
